@@ -3,6 +3,8 @@ pizza
 
 burger
 
+beans 
+
 chicken
 
 thank you ;
